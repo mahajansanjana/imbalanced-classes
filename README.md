@@ -1,4 +1,4 @@
-# imbalanced-classification
+# imbalanced-classes
 Binary classification on an imbalanced dataset
 
 ## Stuff to try
