@@ -1,4 +1,4 @@
-# predicting-collisions
+# imbalanced-classification
 Binary classification on an imbalanced dataset
 
 ## Stuff to try
